@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gesguerra-wzln
+- 👀 I’m interested in making some noise
+- 🌱 I’m currently learning some stuff
+- 💞️ I’m looking to collaborate on some things
+- 📫 How to reach me somewhere else
