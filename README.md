@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @gesguerra-wzln
-- 👀 I’m interested in making some noise
-- 🌱 I’m currently learning some stuff
-- 💞️ I’m looking to collaborate on some things
-- 📫 How to reach me somewhere else
+- 👋 Hello there! I’m @gesguerra-wzln.
+- 👀 I’m eager to make some noise and contribute my skills.
+- 🌱 I’m currently learning and growing my knowledge.
+- 💞️ I’m excited about the possibility of collaborating on some exciting projects.
+- 📫 If you’re interested in reaching out, please feel free to drop me a line somewhere else.
